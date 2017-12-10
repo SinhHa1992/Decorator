@@ -23,6 +23,8 @@ public class Main {
 		System.out.println("item3: ");
 		System.out.print(item3.getName() + ": ");
 		System.out.println(item3.getCost());
+		
+		System.out.println("test: ");
 	}
 
 }
