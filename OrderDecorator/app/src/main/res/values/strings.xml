@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Text use MainActivity-->
+    <string name="app_name">OrderDecorator</string>
+    <string name="text_name">Name:Trung nguyen</string>
+    <string name="text_cream">Add whipped cream? </string>
+    <string name="text_chocolate">Add chocolate? </string>
+    <string name="text_show_quantity">Quantity: </string>
+    <string name="text_total">Total: $</string>
+
+    <!-- Text use main_activity-->
+
+    <string name="title_toppings">TOPPINGS</string>
+    <string name="title_quantity">QUANTITY</string>
+    <string name="title_order">ORDER SUMMARY</string>
+
+    <string name="label_chk_cream">Whipped cream</string>
+    <string name="label_chk_chocolate">Chocolate</string>
+    <string name="label_btn_sub">-</string>
+    <string name="quantity_default_value">1</string>
+    <string name="label_btn_add">+</string>
+    <string name="label_btn_order">ORDER</string>
+
+    <string name="label_default_name">Name</string>
+    <string name="label_default_cream">Add whipper cream</string>
+    <string name="label_default_chocolate">Add chocolate</string>
+    <string name="label_default_quantity">Quantity</string>
+    <string name="label_default_total">Total</string>
+    <string name="label_thank_you">Thank you!</string>
+
+</resources>
